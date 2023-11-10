@@ -1,1 +1,1 @@
-# tdt05
+# Self-supervised learning
